@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scene on Denis Karani</title>
+    <link>http://localhost:1313/tags/scene/</link>
+    <description>Recent content in Scene on Denis Karani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Apr 2023 10:58:08 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Heart Disease Prediction Model</title>
+      <link>http://localhost:1313/post/project-1/</link>
+      <pubDate>Sun, 09 Apr 2023 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/post/project-1/</guid>
+      <description>I have successfully developed and implemented a heart disease prediction model using Logistic Regression machine learning algorithm to determine whether someone has a heart disease or not. My responsibilities included:&#xA;Dataset collection – heart disease dataset is collected using secondary means of data collection. Importing Libraries: NumPy, Pandas, Scikit-learn, Matplotlib and Seaborn libraries are to be used. Exploratory data analysis: For getting more insights about data. Data cleaning and preprocessing: Check for null and junk values using isnull() and isna().</description>
+    </item>
+    <item>
+      <title>Project IV: Northwind Dashboard</title>
+      <link>http://localhost:1313/post/project-4/</link>
+      <pubDate>Wed, 01 Mar 2023 11:14:48 -0400</pubDate>
+      <guid>http://localhost:1313/post/project-4/</guid>
+      <description>In the realm of data-driven decision-making, where every pixel holds a story, the Northwind Dashboard stands as a testament to the artistry and science of data visualization. With its three meticulously crafted sections - Overview, Category &amp;amp; Product, and Employee - this dashboard transcends the mundane and unveils a world of insights hidden within the data.&#xA;At first glance, the Overview section beckons with its elegant simplicity. Like a panoramic view of a bustling metropolis, it presents a bird&amp;rsquo;s eye view of the Northwind dataset.</description>
+    </item>
+  </channel>
+</rss>

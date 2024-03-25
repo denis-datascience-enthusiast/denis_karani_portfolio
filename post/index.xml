@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Denis Karani</title>
+    <link>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/</link>
+    <description>Recent content in Projects on Denis Karani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Mar 2024 11:00:59 -0400</lastBuildDate>
+    <atom:link href="https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project II: Python Project to Scrape YouTube using YouTube Data API</title>
+      <link>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-2/</link>
+      <pubDate>Wed, 20 Mar 2024 11:00:59 -0400</pubDate>
+      <guid>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-2/</guid>
+      <description>In the realm where technology and creativity intertwine, a groundbreaking venture emerges - a Python project meticulously crafted to unravel the secrets concealed within the vast ocean of YouTube data. Aptly named &amp;ldquo;Python Project to Scrape YouTube using YouTube Data API: Analyze and Visualize YouTube Data,&amp;rdquo; this endeavor embodies the fusion of innovation and expertise, offering a captivating glimpse into the realm of data analytics and visualization.&#xA;Imagine delving into the labyrinthine corridors of YouTube, armed with nothing but code and curiosity.</description>
+    </item>
+    <item>
+      <title>Project I: Heart Disease Prediction Model</title>
+      <link>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-1/</link>
+      <pubDate>Sun, 09 Apr 2023 10:58:08 -0400</pubDate>
+      <guid>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-1/</guid>
+      <description>I have successfully developed and implemented a heart disease prediction model using Logistic Regression machine learning algorithm to determine whether someone has a heart disease or not. My responsibilities included:&#xA;Dataset collection – heart disease dataset is collected using secondary means of data collection. Importing Libraries: NumPy, Pandas, Scikit-learn, Matplotlib and Seaborn libraries are to be used. Exploratory data analysis: For getting more insights about data. Data cleaning and preprocessing: Check for null and junk values using isnull() and isna().</description>
+    </item>
+    <item>
+      <title>Project VI: Comparative Analysis Dashboard</title>
+      <link>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-6/</link>
+      <pubDate>Tue, 14 Mar 2023 11:25:05 -0400</pubDate>
+      <guid>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-6/</guid>
+      <description>In the vast landscape of data analytics, where insights abound and decisions shape destinies, the Comparative Analysis Dashboard emerges as a beacon of clarity amidst the complexity. With its elegant design and robust functionality, this dashboard transcends the boundaries of traditional analysis, offering stakeholders a panoramic view of comparative metrics that illuminate pathways to informed decision-making.&#xA;As the curtains rise, the Comparative Analysis Dashboard captivates with its first act: Comparative Performance Metrics.</description>
+    </item>
+    <item>
+      <title>Project IV: Northwind Dashboard</title>
+      <link>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-4/</link>
+      <pubDate>Wed, 01 Mar 2023 11:14:48 -0400</pubDate>
+      <guid>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-4/</guid>
+      <description>In the realm of data-driven decision-making, where every pixel holds a story, the Northwind Dashboard stands as a testament to the artistry and science of data visualization. With its three meticulously crafted sections - Overview, Category &amp;amp; Product, and Employee - this dashboard transcends the mundane and unveils a world of insights hidden within the data.&#xA;At first glance, the Overview section beckons with its elegant simplicity. Like a panoramic view of a bustling metropolis, it presents a bird&amp;rsquo;s eye view of the Northwind dataset.</description>
+    </item>
+    <item>
+      <title>Project III: Sales Dashboard</title>
+      <link>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-3/</link>
+      <pubDate>Sat, 11 Feb 2023 11:13:32 -0400</pubDate>
+      <guid>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-3/</guid>
+      <description>In the fast-paced world of business, where every decision counts, having access to actionable insights is paramount. Enter the realm of data visualization, where Microsoft Power BI emerges as a beacon of innovation, empowering organizations to transform raw data into strategic intelligence. In this article, we embark on a captivating journey through the creation of a dynamic Sales Dashboard, showcasing the formidable capabilities of Power BI in unlocking the hidden potential within sales data.</description>
+    </item>
+    <item>
+      <title>Project V: HR Dashboard</title>
+      <link>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-5/</link>
+      <pubDate>Fri, 13 Jan 2023 11:15:58 -0400</pubDate>
+      <guid>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-5/</guid>
+      <description>In the heart of every organization lies its most precious asset: its people. In the dynamic realm of Human Resources, where the ebb and flow of talent meets the strategic imperatives of the business, the HR Dashboard emerges as a symphony conductor, orchestrating the harmonious blend of data and human capital management. With its intricate melodies of insights and its vibrant visualizations, this dashboard transcends the conventional boundaries of HR analytics, offering stakeholders a kaleidoscopic view of their organization&amp;rsquo;s most valuable resource.</description>
+    </item>
+  </channel>
+</rss>
