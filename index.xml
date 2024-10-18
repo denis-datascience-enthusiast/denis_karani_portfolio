@@ -6,8 +6,22 @@
     <description>Recent content in Data Science Portfolio on Denis Karani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Mar 2024 11:00:59 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 11:30:00 -0400</lastBuildDate>
     <atom:link href="https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project VIII: Student Transportation Management Application</title>
+      <link>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-8/</link>
+      <pubDate>Thu, 17 Oct 2024 11:30:00 -0400</pubDate>
+      <guid>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-8/</guid>
+      <description>I developed and deployed a Student Transportation Management Application that offers a streamlined way for schools and transportation providers to manage student transport services efficiently. The application allows for real-time tracking, route optimization, and vehicle management to enhance the overall transportation experience. My key contributions included:&#xA;Project Highlights: Application Design &amp;amp; Architecture&#xA;Designed the overall architecture of the application using a microservices-based approach, leveraging Azure Container Apps for deployment and scaling.</description>
+    </item>
+    <item>
+      <title>Project VII: School Transportation Data Dashboard</title>
+      <link>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-7/</link>
+      <pubDate>Thu, 17 Oct 2024 10:58:08 -0400</pubDate>
+      <guid>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-7/</guid>
+      <description>I have successfully developed and deployed an Interactive School Transportation Data Dashboard that offers real-time insights into key performance indicators, including estimated and actual fuel consumption for school vans on a weekly basis. This dashboard helps schools optimize their transportation efficiency. My contributions and responsibilities for this project included:&#xA;Project Highlights: Data Collection &amp;amp; Structuring&#xA;I sourced transportation data, including fuel consumption and route performance, and structured it using Google Sheets integrated with MySQL for storage.</description>
+    </item>
     <item>
       <title>Project II: Python Project to Scrape YouTube using YouTube Data API</title>
       <link>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-2/</link>

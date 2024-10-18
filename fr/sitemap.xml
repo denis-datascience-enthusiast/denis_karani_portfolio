@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/fr/</loc>
-    <lastmod>2024-03-20T11:00:59-04:00</lastmod>
+    <lastmod>2024-10-17T11:30:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -15,6 +15,36 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/fr/"
+                />
+  </url><url>
+    <loc>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/fr/post/project-8/</loc>
+    <lastmod>2024-10-17T11:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/fr/post/project-8/"
+                />
+  </url><url>
+    <loc>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/fr/post/project-7/</loc>
+    <lastmod>2024-10-17T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/post/project-7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/fr/post/project-7/"
                 />
   </url><url>
     <loc>https://denis-datascience-enthusiast.github.io/denis_karani_portfolio/fr/post/project-2/</loc>
